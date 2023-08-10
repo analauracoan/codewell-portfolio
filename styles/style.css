@@ -63,4 +63,10 @@ body {
     font-size: 18px;
 }
 
+.conteudo__logomarcas {
+    margin: 5% 8% 5% 8%;
+    display: flex;
+    justify-content: space-between;
+}
+
 
