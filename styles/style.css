@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -6,17 +8,41 @@
 body {
     box-sizing: border-box;
     background-color: #0c0c0c;
-    color: #adadad;
+    color: #dedddd;
 }
 
 .cabecalho {
-    margin: 3% 0 3% 7%;
+    margin: 3% 0 3% 8%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+.cabecalho__nome {
+    font-family: 'Playfair Display', serif;
+}
+
+.cabecalho__navegacao__menu {
+    font-family: Arial, sans-serif;
+    color: #939393;
+    font-weight: 400;
+}
+
+.cabecalho__navegacao {
+    width: 22%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
 }
 
 .cabecalho__botao {
-    margin-right: 7%;
+    margin-right: 8%;
+    padding: 12px 35px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: #0c0c0c;
+    background-color: #FBE850;
 }
 
 
