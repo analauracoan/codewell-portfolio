@@ -2,4 +2,4 @@
 
   Uma cópia para exercício de HTML e CSS de um portfólio do site Codewell, que se assemelha a isso:
 
-<img src="assets/Landing Page - Desktop View.png">
+<img src="assets/imagem_site.png">

@@ -9,5 +9,14 @@ body {
     color: #adadad;
 }
 
+.cabecalho {
+    margin: 3% 0 3% 7%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabecalho__botao {
+    margin-right: 7%;
+}
 
 
