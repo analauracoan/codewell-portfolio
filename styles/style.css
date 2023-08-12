@@ -69,4 +69,24 @@ body {
     justify-content: space-between;
 }
 
+.conteudo__posts {
+    margin: 0 8% 5% 8%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
+.conteudo__posts__post {
+    width: 530px;
+}
+
+.conteudo__posts__post__titulo {
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    color: #dedddd;
+    font-size: 40px;
+}
+
+.conteudo__posts__post__texto {
+    font-family: Arial, sans-serif;
+}
